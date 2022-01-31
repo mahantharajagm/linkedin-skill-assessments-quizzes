@@ -564,7 +564,7 @@
 
 #### Q79. Which statement best describes Agile, Lean, and Six Sigma?
 
-- [ ] They are strategies for delivering customer value.
+- [x] They are strategies for delivering customer value.
 - [ ] They were pioneered by Toyota.
 - [ ] They are strategies for discovering what the customer wants.
 - [ ] They are derived from statistical process control.
@@ -598,3 +598,24 @@
 - [x] The business context for the product.
 
 `A Scrum Team has 3 roles -  Product Owner, Scrum Master and Developers. All 3 roles generate Value in their own contexts; however, it is the Product Owner who maximizes the Value from a product or business context.` [(Source)](https://premieragile.com/how-does-a-product-owner-measure-value)
+
+#### Q84. People with a fixed mindset ___________
+
+- [ ] tend to be more resilient.
+- [ ] have better focus and longer attention spans.
+- [x] are more afraid of failure.
+- [ ] are more goal oriented.
+
+#### Q85. Which statement about the Agile Manifesto is true
+
+- [ ] It was first published as part of Jim Highsmith’s doctoral thesis.
+- [ ] It was written via crowdsourcing and its authors are unknown.
+- [x] It has been translated into dozens of languages and used around the world.
+- [ ] It was written in 2001 and it obsolete.
+
+#### Q86. Which scale is typically used for Planning Poker?
+
+- [ ] XS, S, M, L, XL
+- [ ] Less than 1 hour, 1 to 4 hours, 4 to 8 hours, 8 hours to 24 hours, more than 24 hours
+- [ ] 2, 4, 6, 8, 10
+- [x] 1, 2, 3, 5, 8, 13, 20
